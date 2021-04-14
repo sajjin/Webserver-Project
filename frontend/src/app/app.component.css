@@ -1,0 +1,8 @@
+#main {
+
+  max-height: fit-content;
+  background-color: #D4E6B5;
+  animation-name: createPage;
+  animation-duration: 4s;
+  animation-iteration-count: infinite;
+}
